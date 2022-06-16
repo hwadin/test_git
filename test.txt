@@ -1,0 +1,61 @@
+
+com@DESKTOP-5JE210C MINGW64 ~/Desktop/workspace/git
+$ pwd
+/c/Users/com/Desktop/workspace/git
+
+com@DESKTOP-5JE210C MINGW64 ~/Desktop/workspace/git
+$ dir
+
+com@DESKTOP-5JE210C MINGW64 ~/Desktop/workspace/git
+$ ls
+
+com@DESKTOP-5JE210C MINGW64 ~/Desktop/workspace/git
+$ ls
+test.txt
+
+com@DESKTOP-5JE210C MINGW64 ~/Desktop/workspace/git
+$ ls -l -a
+total 5
+drwxr-xr-x 1 com 197121 0 Jun 16 09:41 ./
+drwxr-xr-x 1 com 197121 0 Jun 16 09:36 ../
+-rw-r--r-- 1 com 197121 5 Jun 16 09:41 test.txt
+
+com@DESKTOP-5JE210C MINGW64 ~/Desktop/workspace/git
+$ ls -l
+total 1
+-rw-r--r-- 1 com 197121 5 Jun 16 09:41 test.txt
+
+com@DESKTOP-5JE210C MINGW64 ~/Desktop/workspace/git
+$ ls -al
+total 5
+drwxr-xr-x 1 com 197121 0 Jun 16 09:41 ./
+drwxr-xr-x 1 com 197121 0 Jun 16 09:36 ../
+-rw-r--r-- 1 com 197121 5 Jun 16 09:41 test.txt
+
+com@DESKTOP-5JE210C MINGW64 ~/Desktop/workspace/git
+$ ll
+total 1
+-rw-r--r-- 1 com 197121 5 Jun 16 09:41 test.txt
+
+com@DESKTOP-5JE210C MINGW64 ~/Desktop/workspace/git
+$ ls -alS
+total 5
+-rw-r--r-- 1 com 197121 5 Jun 16 09:41 test.txt
+drwxr-xr-x 1 com 197121 0 Jun 16 09:41 ./
+drwxr-xr-x 1 com 197121 0 Jun 16 09:36 ../
+
+com@DESKTOP-5JE210C MINGW64 ~/Desktop/workspace/git
+$ ls -alh
+total 5.0K
+drwxr-xr-x 1 com 197121 0 Jun 16 09:41 ./
+drwxr-xr-x 1 com 197121 0 Jun 16 09:36 ../
+-rw-r--r-- 1 com 197121 5 Jun 16 09:41 test.txt
+
+com@DESKTOP-5JE210C MINGW64 ~/Desktop/workspace/git
+$ ls -alt
+total 5
+-rw-r--r-- 1 com 197121 5 Jun 16 09:41 test.txt
+drwxr-xr-x 1 com 197121 0 Jun 16 09:41 ./
+drwxr-xr-x 1 com 197121 0 Jun 16 09:36 ../
+
+com@DESKTOP-5JE210C MINGW64 ~/Desktop/workspace/git
