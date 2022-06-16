@@ -1,2 +1,8 @@
+sample 파 일 추 가 UPDATE
+tracked : 버전을 만든 후에 깃에서 변경 내용을 추적중인 상태
+untracked : 한번도 버전을 만들지 않은 상태
+unmodified : 수정되지 않은 상태(working tree is clean)
+modified : 작업트리에서 수정 후 아직 스테이지에 저장하지 않은 상태
+stagged : 스테이지에 있고 아직 커밋하지 않은 상태
 
-sample 파 일 추 가
+
